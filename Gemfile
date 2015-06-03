@@ -40,10 +40,10 @@ gem 'spring',        group: :development
 # use devise for user authentification 
 gem 'devise', '3.4.1'
 # Use stripe for handling payments
-gem 'stripe', '1.16.1'
+gem 'stripe'
 
 # Use figaro to hide secret keys
-gem 'figaro', '1.0.0'
+gem 'figaro'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
